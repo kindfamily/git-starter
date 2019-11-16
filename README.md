@@ -104,4 +104,3 @@ Git 과 Github 을 능숙하게 다루기 위해선 자주 사용해보는 것�
 - [@kindfamily](https://github.com/kindfamily)
 - [@izen1231](https://github.com/izen1231)
 
-emo::ji("dragon")
