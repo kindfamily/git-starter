@@ -70,7 +70,7 @@ Git 과 Github 을 능숙하게 다루기 위해선 자주 사용해보는 것�
 
 ## 9. Acknowledgments
 
-- [@kindfamily](https://github.com/kindfamily)
+
 - [@namsupcall](https://github.com/namsupcall)
 - [@github](https://github.com)
 - [@jhoon2816](https://github.com/jhoon2816)
@@ -101,6 +101,7 @@ Git 과 Github 을 능숙하게 다루기 위해선 자주 사용해보는 것�
 - [@sejin99](https://github.com/sejin99)
 - [@sanghyeon1](https://github.com/sanghyeon1)
 - [@yee7720](https://github.com/yee7720)
+- [@kindfamily](https://github.com/kindfamily)
 - [@izen1231](https://github.com/izen1231)
 
 emo::ji("dragon")
